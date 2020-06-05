@@ -1,0 +1,3 @@
+/home/extremer/Projects/fh/bes/myfind/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/extremer/Projects/fh/bes/myfind/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/extremer/Projects/fh/bes/myfind/cmake-build-debug/CMakeFiles/myfind.dir

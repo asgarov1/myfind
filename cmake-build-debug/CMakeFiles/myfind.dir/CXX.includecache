@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/extremer/Projects/fh/bes/myfind/main.cpp
+iostream
+-
+unistd.h
+-
+filesystem
+-
+vector
+-
+cstdlib
+-
+wait.h
+-
+strings.h
+-
+algorithm
+-
+
